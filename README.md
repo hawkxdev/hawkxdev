@@ -2,7 +2,7 @@
 
 # Sergey Sokolkin
 
-**Python Backend Engineer · Event-driven Systems · Integrations**
+**Software Engineer / Product Engineer · Business Systems & Automation**
 
 I build integration-heavy systems around external APIs, real-time events, and operational automation.
 
